@@ -93,8 +93,6 @@ The repository contains the following structure:
 * `models/`: May contain trained machine learning models.
 * `notebooks/`: Contains Jupyter notebooks for data exploration, cleaning, visualization, and machine learning.
 * `reports/`: Holds any generated reports or detailed analyses.
-* `results/`: May contains the output data or results of machine learning models or data analysis.
-* `src/`: May contains Python scripts or modules.
 
 
 Each directory may contain two sub-directories `Air Pollution` and `Food Insecurities`:
