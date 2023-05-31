@@ -97,7 +97,7 @@ The repository contains the following structure:
 * `src/`: May contains Python scripts or modules.
 
 
-Each directory may contain two directories `Air Pollution` and `Food Insecurities` sub-directories:
+Each directory may contain two sub-directories `Air Pollution` and `Food Insecurities`:
 
 1. **Air Pollution**: Analysis and prediction of the impact of Covid-19 on Air Pollution within the USA.
 2. **Food Insecurities**: Analysis and prediction of the impact of Covid-19 on Food Insecurities within the USA.
