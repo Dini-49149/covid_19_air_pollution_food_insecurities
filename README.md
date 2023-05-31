@@ -73,6 +73,18 @@ Model building was performed on both unbalanced and balanced datasets of Air pol
 
     * ARIMA ( Time Series Forcasting )
 
+
+## Results Summary
+
+### Air Pollution
+
+Our analysis indicated a significant impact of the increase in COVID-19 cases on the reduction in air pollution. Furthermore, an uptick in COVID-19 cases predicts the Air Quality Index (AQI) (p=0.0088).
+
+### Food Insecurities
+
+Our analysis indicated that COVID-19 has had a significant impact on food insecurity in various demographic groups in the USA (p=0.00009755).
+
+
 ## Project Structure
 
 The repository contains the following structure:
@@ -91,16 +103,6 @@ Each directory may contain two directories `Air Pollution` and `Food Insecuritie
 2. **Food Insecurities**: Analysis and prediction of the impact of Covid-19 on Food Insecurities within the USA.
 
 ---
-
-## Results Summary
-
-### Air Pollution
-
-Our analysis indicated a significant impact of the increase in COVID-19 cases on the reduction in air pollution. Furthermore, an uptick in COVID-19 cases predicts the Air Quality Index (AQI) (p=0.0088).
-
-### Food Insecurities
-
-Our analysis indicated that COVID-19 has had a significant impact on food insecurity in various demographic groups in the USA (p=0.00009755).
 
 
 ## Getting Started
