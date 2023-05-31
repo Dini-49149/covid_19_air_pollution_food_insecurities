@@ -111,7 +111,7 @@ Follow these steps to replicate the project:
 
 1. Clone this repository.
 2. Install the necessary Python libraries listed in `requirements.txt`.
-3. Navigate to the respective project directory (Air Pollution or Food Insecurities).
+3. Navigate to the respective project directory (covid_19_air_pollution_food_insecurities).
 4. Run the Jupyter notebooks in the `notebooks/` directory.
 
 ## Contributors
