@@ -137,5 +137,5 @@ For detailed information on the project, please refer to project report file in 
 
 ## Contact
 
-For any queries or further discussions, feel free to reach out to me at [dinesh.vennapoosa@gmail.com](mailto:dinesh.vennapoosa@gmail.com)
+For any queries or further discussions, feel free to reach out
 
